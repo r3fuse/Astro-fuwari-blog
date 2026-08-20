@@ -5,7 +5,7 @@
 
 ## 技术栈
 - **前端开发**：JavaScript、TypeScript、Vue.js
-- **后端开发**：TypeScript、Node.js、Java、SpringBoot、MySQL
+- **后端开发**：Rust、TypeScript、Node.js、Java、SpringBoot、MySQL
 
 ## 兴趣爱好状态?
 - 😶 内向 & 少言，不擅长主动交际，天生局外人，习惯了旁观而不是加入世间的烟火。在外人看来是一个非常少言的人，混熟了就会变成话痨。
@@ -23,5 +23,6 @@
 >  - Lenovo R9000p2021H (R7-5800H/3060/16G RAM/1.5T SSD)
 >  - KZZI k75 / RK100
 >  - Logitech GPW /ATK U2 PRO MAX / G102
+>  - MEIZU 15 (Snapdragon660/4G RAM/64G ROM)
 >  - ...
 

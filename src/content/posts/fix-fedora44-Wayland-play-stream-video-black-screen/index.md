@@ -23,6 +23,7 @@ sudo dnf group install -y sound-and-video # Installs useful Sound and Video comp
 但安装后 还是提示不支持的HLS，
 ![current browser unsuported HLS](./unsupportHLS.png)
 
+### 开启硬件编码解决提示不支持HLS
 在浏览器打开```chrome://gpu```,搜索**Video Acceleration Information**，会看到Decoding那栏是空的
 ![chrome Decoding](./no-decoding.png)
 导出整个日志，发现日志最后一段,Chrome明明识别到了nvidia-drm却跳过了
